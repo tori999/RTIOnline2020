@@ -6,7 +6,7 @@ public class DebugChallengeTest
 	{
         int i = 0;
         for(int j = 1; j <= 10; j++) {
-            Console.WriteLine(j * l);
+            Console.WriteLine(j * i);
             i += 1;
         }
 	}
